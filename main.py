@@ -6,12 +6,13 @@ import os
 import random
 import asyncio
 from datetime import datetime, timedelta
+from dotenv import load_dotenv
 
 # ==========================================
 # --- 1. הגדרות, מזהים וקבועים ---
 # ==========================================
 
-TOKEN = 'MTQzMDE0MjA4NDkwMzMzODA2Ng.GvorQ5.fHsJH4V5N0Og9Um5zLi4A_aL1O12RnjOe7mNeo' 
+TOKEN = os.getenv('DISCORD_TOKEN')
 ADMIN_USERNAME = "datykvuktf"
 
 # ערוצים (Channels)
