@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 # --- 1. הגדרות, מזהים וקבועים ---
 # ==========================================
 
-TOKEN = 'MTQzMDE0MjA4NDkwMzMzODA2Ng.GSbuvC.ClMiwMWwVcqRGO5XTAApF4DZSSmL_5FuGe5sTQ' 
+TOKEN = 'MTQzMDE0MjA4NDkwMzMzODA2Ng.GvorQ5.fHsJH4V5N0Og9Um5zLi4A_aL1O12RnjOe7mNeo' 
 ADMIN_USERNAME = "datykvuktf"
 
 # ערוצים (Channels)
